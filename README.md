@@ -1,14 +1,14 @@
 # BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
-#AIM:
+## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
-#EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
 
-ALGORITHM:
+## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -24,11 +24,11 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-PROGRAM
-DEVELOPED BY : BHUVANESHWARI s
-REGISTER NO: 212222220008
+## PROGRAM
+## DEVELOPED BY : BHUVANESHWARI s
+## REGISTER NO: 212222220008
 
-MainActivity.java:
+## MainActivity.java:
 ```
 package com.example.EX_1;
 
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-Activity_Main.XML:
+## Activity_Main.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -119,26 +119,26 @@ Activity_Main.XML:
 
 ```
 
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/05ad2d71-4ff1-42d9-8e3a-a4fb032f7fa3)
 
-OnPause Executed:
+## OnPause Executed:
 ![image](https://github.com/user-attachments/assets/9626bc43-a2c1-4aea-a02b-1006e7503732)
 
 
-OnResume Executed:
+## OnResume Executed:
 ![image](https://github.com/user-attachments/assets/b03d3007-d20f-46be-b985-44e4b1fa41d0)
 
 
-OnRestart Executed:
+## OnRestart Executed:
 ![image](https://github.com/user-attachments/assets/39752a14-b6d6-4ccc-9d0d-31b54d8e9d5d)
 
 
-OnStart Executed:
+## OnStart Executed:
 ![image](https://github.com/user-attachments/assets/630ff3df-e40c-4a16-a554-a4af1aa5ea16)
 
 
-RESULT:
+## RESULT:
 
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
 
